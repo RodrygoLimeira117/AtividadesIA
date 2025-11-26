@@ -98,7 +98,7 @@ A fronteira de decisão é uma linha horizontal em $x_2=1$.
 
 ---
 
-## 👨‍💻 Autores
+## 👨‍💻 Autor
 
-* [Seu Nome / Matrícula]
-* [Nome da Dupla / Matrícula (se aplicável)]
+ José Rodrigo Araujo Limeira
+
